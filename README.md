@@ -8,3 +8,4 @@ Preview of the game:
 
 
 Reference: Hands-on intro to game programming by Chris DeLeon
+https://gumroad.com/l/hands-on-game-programming
