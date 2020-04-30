@@ -1,5 +1,5 @@
 # Paddle-Ball
-A single file paddle ball game against a simple computer AI using JavaScript
+A single file paddle ball game against a simple computer AI using JavaScript Canvas
 
 Run the file on any webbrowser to enjoy the game
 
